@@ -1,5 +1,5 @@
 package modelos;
 
-public class Pago {
+public class Cobro {
     
 }
